@@ -37,7 +37,7 @@ https://www.comp.nus.edu.sg/~reza/files/dataset_purchase.tgz
 
 ## Run Experiements:
 
-首先下载数据集并进行分割
+首先下载数据集并进行分割(注意创建对应文件夹)
 ```
   python prepare_purchase.py
   
